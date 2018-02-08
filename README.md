@@ -25,8 +25,8 @@ normal `configure`.  When `config-*` is used the default things will be
 installed in `<build dir>/inst` for easier testing and debugging. You
 can change that by using the `--prefix` option.
 
-Autogen should be run when ever anything but the source files or
-Makefile.am files are modified.
+Autogen should be run whenever anything but the source files or Makefile.am
+files are modified.
 
 Than to build and install:
 ```
